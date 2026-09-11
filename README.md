@@ -19,7 +19,7 @@ Trigger it any time you need to:
 - Kick off a new competitor analysis or competitive landscape doc
 - Refresh an existing one after competitors ship new features
 - Sanity-check whether a proposed feature is actually a differentiator or just table stakes
-- Validate a "no direct competitors" assumption before it goes into a deck
+- Validate that there are no direct competitors before adding this claim to the presentation.
 
 ## What you need to provide
 
