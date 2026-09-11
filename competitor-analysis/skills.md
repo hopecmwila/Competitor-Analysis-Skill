@@ -74,4 +74,5 @@ If any input is missing or ambiguous, ask clarifying questions before researchin
 
 ## Example Trigger
 User: [uploads product brief + known competitors] → Run competitor analysis.
+
 You: [Full report in the format above, with sources cited and unverified items flagged.]
