@@ -1,6 +1,6 @@
 # Competitor Analysis Skill
 
-A repeatable Claude skill for producing structured, evidence-based competitor analysis reports — built for PMs who need this done consistently, not reinvented every time.
+A repeatable skill for producing structured, evidence-based competitor analysis reports.
 
 ## What it does
 
@@ -59,3 +59,21 @@ The report always follows the same structure: Proposed Solution → Existing Sol
 - It reports what it finds; it doesn't make the strategic call on which differentiators to prioritize — that's still on you
 
 ## Contributors
+
+Bridget Kimiti
+
+Eyerusalem Gebremedhin
+
+Achiro Shamimu
+
+Lydia Ngaira
+
+Lavigne Nancy
+
+Clovia Chebet
+
+Jesca Amondi
+
+Viona Kyalo
+
+Samrawit Yisak
